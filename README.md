@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jah-Wilson!
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning: machinelearning, REST API, Kubernetes
+- 🌱 I’m exploring machine learning 
 - 💞️ I’m looking to collaborate on open source project
 - 📫 gbelleyjah@icloud.com
 
