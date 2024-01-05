@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jah-Wilson!
-- 👀 I’m interested in data science and machine learning
+- 📊 I am a Data Engineer 
 - 🌱 I’m exploring machine learning 
 - 💞️ I’m looking to collaborate on open source project
 - 📫 gbelleyjah@icloud.com
